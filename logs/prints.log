@@ -1,0 +1,10 @@
+01:20:45.241 [main] INFO  resources.BasePage - Driver is initialized
+01:21:15.559 [main] INFO  resources.BasePage - Driver is closed
+01:24:18.956 [main] INFO  resources.BasePage - Driver is initialized
+01:24:49.609 [main] INFO  resources.BasePage - Driver is closed
+23:02:09.625 [main] INFO  resources.BasePage - Driver is initialized
+23:03:12.814 [main] INFO  resources.BasePage - Driver is closed
+23:16:56.052 [main] INFO  resources.BasePage - Driver is initialized
+23:17:47.169 [main] INFO  resources.BasePage - Driver is closed
+23:34:27.436 [main] INFO  resources.BasePage - Driver is initialized
+23:35:32.673 [main] INFO  resources.BasePage - Driver is closed

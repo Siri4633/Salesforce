@@ -1,0 +1,19 @@
+# Created at 2020-07-08T23:01:49.252
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Shirisha Workspace\New Space\SalesforcePIW\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
+# Created at 2020-07-08T23:02:09.913
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-07-08T23:02:09.915
+WARNING: Illegal reflective access by org.dom4j.io.SAXContentHandler (file:/C:/Users/SM5034533/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar) to method com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$LocatorProxy.getEncoding()
+
+# Created at 2020-07-08T23:02:09.917
+WARNING: Please consider reporting this to the maintainers of org.dom4j.io.SAXContentHandler
+
+# Created at 2020-07-08T23:02:09.919
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-07-08T23:02:09.924
+WARNING: All illegal access operations will be denied in a future release
+

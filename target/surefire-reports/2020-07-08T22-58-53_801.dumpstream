@@ -1,0 +1,4 @@
+# Created at 2020-07-08T22:58:55.181
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Shirisha Workspace\New Space\SalesforcePIW\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

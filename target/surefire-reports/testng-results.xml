@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-08T23:34:08 IST" name="Suite" finished-at="2020-07-08T23:35:32 IST" duration-ms="83937">
+    <groups>
+    </groups>
+    <test started-at="2020-07-08T23:34:08 IST" name="Test" finished-at="2020-07-08T23:35:32 IST" duration-ms="83937">
+      <class name="testcase.StatusTest">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:testcase.StatusTest@75f65e45]" started-at="2020-07-08T23:34:08 IST" name="initializer" finished-at="2020-07-08T23:34:27 IST" duration-ms="18688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method signature="getData()[pri:0, instance:testcase.StatusTest@75f65e45]" started-at="2020-07-08T23:34:27 IST" name="getData" finished-at="2020-07-08T23:35:32 IST" duration-ms="64712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.StatusTest@75f65e45]" started-at="2020-07-08T23:35:32 IST" name="tearDown" finished-at="2020-07-08T23:35:32 IST" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.StatusTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
